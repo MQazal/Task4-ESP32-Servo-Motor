@@ -10,3 +10,4 @@ PIN#6 ==> 180 degree
 
 from resources I used:
 https://espblockly.com/servo180.html
+https://circuitdigest.com/article/servo-motor-working-and-basics
