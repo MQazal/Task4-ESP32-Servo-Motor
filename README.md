@@ -8,6 +8,9 @@ PIN#4 ==> 120 degree
 PIN#5 ==> 150 degree
 PIN#6 ==> 180 degree
 
+Project's link:
+https://wokwi.com/projects/405878886949343233
+
 from resources I used:
 https://espblockly.com/servo180.html
 https://circuitdigest.com/article/servo-motor-working-and-basics
